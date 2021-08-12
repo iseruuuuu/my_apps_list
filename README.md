@@ -1,13 +1,17 @@
 # my_apps_list
 
-初めまして。井関竜太郎です。
+初めまして。井関竜太郎です。  
+こちらのリポジトリを閲覧していただきありがとうございます。  
+私が今まで作成したアプリなどをGifで紹介します。具体的にどのような感じでアプリが動いているのかがわかりやすい形になっています。
 
-今まで作成したアプリを動画形式で紹介でします。　どんな感じで動いているのかがわかると思います。
+コードが記載されているGithubのリポジトリとApple Store または、 Goggle Play Store　のリンクの載せます。
+よろしくお願いします！！
 
 
 |header1|header2|header3|header4|header5|
 |:--|--:|:--:|:--|--:|
-|align left|align right|align center|align right|align center|
+|github|align right|align center|align right|align center|
+|Apple Store|align right|align center|align right|align center|
 |![app1](https://user-images.githubusercontent.com/67954894/129119313-7a31df9f-65b6-4fb4-8212-4ec5953e4bb5.gif)|![app2](https://user-images.githubusercontent.com/67954894/129119314-5df17cc5-abb7-4300-b512-9863df73ad83.gif)|![app3](https://user-images.githubusercontent.com/67954894/129119320-16383ee3-dde5-4621-8919-aed6da4c4e26.gif)|![app4](https://user-images.githubusercontent.com/67954894/129119330-f9027920-7858-47ae-8385-d759ade29798.gif)|![app5](https://user-images.githubusercontent.com/67954894/129119335-c12ccca1-0e29-46fd-bf42-88278fe98112.gif)|
 
 
