@@ -1,5 +1,7 @@
 # my_apps_list
 
+初めまして。井関竜太郎です。
+
 今まで作成したアプリを動画形式で紹介でします。　どんな感じで動いているのかがわかると思います。
 
 
@@ -13,18 +15,6 @@
 |:--|--:|:--:|:--|--:|
 |align left|align right|align center|align right|align center|
 |![app7](https://user-images.githubusercontent.com/67954894/129119342-e90749e0-b4c3-47c3-a832-046c953641fa.gif)|![app8](https://user-images.githubusercontent.com/67954894/129119344-2b868c7f-7110-468d-a7cd-c71ff75cbade.gif)|![app9](https://user-images.githubusercontent.com/67954894/129119345-3914aa11-4ce3-4633-99ba-0017d1a0482a.gif)|![app10](https://user-images.githubusercontent.com/67954894/129119351-dd0944ae-34ed-4e82-895d-6a3e9681bd3f.gif)|||
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
