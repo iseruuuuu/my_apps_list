@@ -20,7 +20,7 @@
 
 |アプリ名|スピード階乗計算|スピード２乗計算|カウントアプリ|課題強制アプリ|
 |:--:|:--:|:--:|:--:|:--:|
-|Github|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=flick_keybord_calacreate)](https://github.com/iseruuuuu/flick_keybord_calacreate)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=flick_calculator)](https://github.com/iseruuuuu/flick_calculator)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=marubatu_app)](https://github.com/iseruuuuu/marubatu_app)|[![Readme Card](
+|Github|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=flick_keybord_calacreate)](https://github.com/iseruuuuu/flick_keybord_calacreate)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=flick_calculator)](https://github.com/iseruuuuu/flick_calculator)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=marubatu_app)](https://github.com/iseruuuuu/marubatu_app)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=marubatu_app)](https://github.com/iseruuuuu/marubatu_app)|
 |AppleStore|Apple Store|align right|align center|align right|
 |Google Play Store|Apple Store|align right|align center|align right|
 |アプリ画面|![app7](https://user-images.githubusercontent.com/67954894/129119342-e90749e0-b4c3-47c3-a832-046c953641fa.gif)|![app8](https://user-images.githubusercontent.com/67954894/129119344-2b868c7f-7110-468d-a7cd-c71ff75cbade.gif)|![app9](https://user-images.githubusercontent.com/67954894/129119345-3914aa11-4ce3-4633-99ba-0017d1a0482a.gif)|![app10](https://user-images.githubusercontent.com/67954894/129119351-dd0944ae-34ed-4e82-895d-6a3e9681bd3f.gif)|
