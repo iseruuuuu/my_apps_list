@@ -13,7 +13,11 @@
 |アプリ名|フリックキーボード電卓|フリック電卓|まるばつゲーム|哲学集|
 |:--:|:--:|:--:|:--:|:--:|
 |Github|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=flick_keybord_calacreate)](https://github.com/iseruuuuu/flick_keybord_calacreate)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=flick_calculator)](https://github.com/iseruuuuu/flick_calculator)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=marubatu_app)](https://github.com/iseruuuuu/marubatu_app)|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=iseruuuuu&repo=flick_calculator)](https://github.com/iseruuuuu/flick_calculator)|
-|AppleStore|[![apple](https://user-images.githubusercontent.com/67954894/129123221-4ea7ee71-9a5e-4131-a080-c7e57f211264.png)](https://apps.apple.com/jp/app/%E3%83%95%E3%83%AA%E3%83%83%E3%82%AF%E9%9B%BB%E5%8D%93/id1565719589)|[![apple](https://user-images.githubusercontent.com/67954894/129119314-5df17cc5-abb7-4300-b512-9863df73ad83.gif)]()|[![apple](https://user-images.githubusercontent.com/67954894/129119320-16383ee3-dde5-4621-8919-aed6da4c4e26.gif)]()|[![apple](https://user-images.githubusercontent.com/67954894/129119330-f9027920-7858-47ae-8385-d759ade29798.gif)]()|
+|AppleStore|
+[![apple](https://user-images.githubusercontent.com/67954894/129123221-4ea7ee71-9a5e-4131-a080-c7e57f211264.png)](https://apps.apple.com/jp/app/%E3%83%95%E3%83%AA%E3%83%83%E3%82%AF%E9%9B%BB%E5%8D%93/id1565719589)
+|[![apple](ttps://user-images.githubusercontent.com/67954894/129123221-4ea7ee71-9a5e-4131-a080-c7e57f211264.png)]()
+|[![apple](ttps://user-images.githubusercontent.com/67954894/129123221-4ea7ee71-9a5e-4131-a080-c7e57f211264.png)]()
+|[![apple](https://user-images.githubusercontent.com/67954894/129119330-f9027920-7858-47ae-8385-d759ade29798.gif)]()|
 
 [![apple]()]()
 
